@@ -1,2 +1,3 @@
 # My_library
-Some useful books. Not for business purposes. 
+---
+![Alt text](/resources/pic.jpg)
