@@ -40,7 +40,7 @@ output
 ['Deux agressions en quelques jours, voilà ce qui a motivé hier matin le débrayage  Levallois.', 'L’équipe pédagogique de ce collège de 750 élèves avait déjà été choquée par l’agression, mercredi , d’un professeur d’histoire']
 ```
 ---
-## 1.3 terms tokenize
+## 1.3 Terms tokenize
 ![tokenize](media/tokenizer.png)
 
 
@@ -60,5 +60,5 @@ output:
 * 使用指定分词器
 
 ```python
-a
+
 ```
