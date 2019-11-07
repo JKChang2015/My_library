@@ -16,6 +16,7 @@ True
 ```
  <br /> 
 In this case, the variable Result will print True since the strings are an exact match (100% similarity), but see what happens if the case of Str2 changes:
+
 ```python
 Str1 = "Apple Inc."
 Str2 = "apple Inc."
